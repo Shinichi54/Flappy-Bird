@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3e81f1ceb9d6e374fa3f90ce4b01ef83
+timeCreated: 1501041849
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AaMianHuatang
+  fontNames:
+  - AaMianHuatang
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
